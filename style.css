@@ -1,0 +1,45 @@
+body {
+	background-color: dimgrey;
+	font-family: Cambria, "Hoefler Text";
+}
+.welcome {
+	text-align: center;
+	font-size: 100px;
+}
+.name {
+	text-align: center;
+}
+.logo {
+	display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+.header {
+  padding: 1px;
+  text-align: center;
+  background: #194872;
+  color: #FBFCFD;
+  font-size: 30px;
+}
+.nav {
+  padding: 15px;
+  text-align: right;
+  background: #262626;
+  color: #FBFCFD;
+  font-size: 30px;
+	position: fixed;
+	height: 50px;
+	width: 125px
+}
+.navlogo {
+	position: fixed;
+	display: block;
+    margin-right: auto
+}
+.main {
+  padding: 15px;
+  text-align: center;
+  background: #A5A5A5;
+  color: #FBFCFD;
+  font-size: 30px;
+}
